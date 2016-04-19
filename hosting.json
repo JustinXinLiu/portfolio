@@ -1,0 +1,7 @@
+{
+  "webroot": "src/client",
+  "server": "Microsoft.AspNet.Server.Kestrel",
+  "app": "portfolio",
+  "environment": "Development",
+  "detailedErrors": true
+}
